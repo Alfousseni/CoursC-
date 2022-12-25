@@ -1,0 +1,15 @@
+C:\Users\Alfousseni\Desktop\coursCsharp\bin\Debug\net6.0\coursCsharp.exe
+C:\Users\Alfousseni\Desktop\coursCsharp\bin\Debug\net6.0\coursCsharp.deps.json
+C:\Users\Alfousseni\Desktop\coursCsharp\bin\Debug\net6.0\coursCsharp.runtimeconfig.json
+C:\Users\Alfousseni\Desktop\coursCsharp\bin\Debug\net6.0\coursCsharp.dll
+C:\Users\Alfousseni\Desktop\coursCsharp\bin\Debug\net6.0\coursCsharp.pdb
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.csproj.AssemblyReference.cache
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.AssemblyInfoInputs.cache
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.AssemblyInfo.cs
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.dll
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\refint\coursCsharp.dll
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.pdb
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\coursCsharp.genruntimeconfig.cache
+C:\Users\Alfousseni\Desktop\coursCsharp\obj\Debug\net6.0\ref\coursCsharp.dll
